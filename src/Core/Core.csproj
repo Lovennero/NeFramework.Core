@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <!-- Target -->
+        <TargetFramework>netstandard2.1</TargetFramework>
+
+        <!-- Assembly -->
+        <AssemblyName>NeFramework.Core</AssemblyName>
+        <RootNamespace>NeFramework.Core</RootNamespace>
+
+        <!-- C# -->
+        <LangVersion>latest</LangVersion>
+
+        <!-- Nullable -->
+        <Nullable>disable</Nullable>
+        <ImplicitUsings>disable</ImplicitUsings>
+    </PropertyGroup>
+
+</Project>
